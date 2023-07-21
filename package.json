@@ -1,0 +1,24 @@
+{
+  "name": "ecmascript-history",
+  "version": "1.0.0",
+  "description": "This is compilation of the ecmascript history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mozart2234/ecmascript-history.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "history"
+  ],
+  "author": "Alexei Mamani <alexeim763@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mozart2234/ecmascript-history/issues"
+  },
+  "homepage": "https://github.com/Mozart2234/ecmascript-history#readme"
+}
