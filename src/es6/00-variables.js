@@ -1,3 +1,5 @@
+// 00 - Variables
+// Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types
 // In previous JS versions the way to define the variables was defined by the
 // keyword var
 

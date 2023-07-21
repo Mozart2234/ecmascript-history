@@ -1,6 +1,7 @@
-// Template literals
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+// 02 - Strings
+// Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
+// Template literals
 let firstName = "Alexei";
 let lastName = "Mamani";
 

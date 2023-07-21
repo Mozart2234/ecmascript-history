@@ -1,3 +1,5 @@
+// 01 - Functions
+// Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 //old way
 
 function sum(num1, num2) {
