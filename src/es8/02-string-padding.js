@@ -1,4 +1,4 @@
-// 03 String Padding
+// 02 String Padding
 // Ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart
 
 const string = "Hello";
